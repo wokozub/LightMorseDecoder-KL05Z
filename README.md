@@ -16,3 +16,6 @@ The sensitivity of Morse code detection can be adjusted by modifying:
 ## Example Usage  
 - When the light blinks in Morse code, the decoder reads the patterns and displays characters.  
 - The decoded characters are sent via UART and can be viewed in a terminal.  
+
+https://github.com/user-attachments/assets/d809f1d9-b8c8-485c-b760-6339b4626a54
+
